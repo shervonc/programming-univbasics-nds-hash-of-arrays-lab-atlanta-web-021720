@@ -10,4 +10,5 @@ def add_character(show, name)
   # Should return the array of the 'show' argument
   BASE_HOA[show] << name
      return show
+     show
 end
